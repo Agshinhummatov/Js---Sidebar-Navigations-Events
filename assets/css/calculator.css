@@ -1,0 +1,33 @@
+.btn-number{
+  display: flex;
+  justify-content: space-evenly;
+
+    
+}
+
+
+.btn-number input{
+    width: 500px;
+}
+
+.btns {
+
+ display: flex;
+ justify-content: space-around;
+ 
+}
+
+
+.output-result input{
+margin-top: 3rem;
+    width: 500px;
+}
+
+.output-result{
+    display: flex;
+    justify-content: center;
+}
+
+.btns button{
+    width: 200px;
+}
